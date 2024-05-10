@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --local user.name "wisnuary15"
-          git config --local user.email "aryswadanawisnu@gmail.com"
+          git config --local user.name "GiraldoNainggolan"
+          git config --local user.email "220441100064@student.trunojoyo.ac.id"
           git add -A
 
           arr[0]="🚀 Updated: Auto commit"
